@@ -2,8 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link';
 import React from 'react';
 import ScoreCard from '../../public/assets/projects/scorecardImgs.jpg';
-import BuyConnect from '../../public/assets/projects/buyconnect.jpg';
-import TraderaXpress from '../../public/assets/projects/tradexpress.jpg';
+import Chitchat from '../../public/assets/projects/chitchat_collage.jpg'
 import Restaurant from '../../public/assets/projects/res_collage.jpg'
 import Horbax from '../../public/assets/projects/horbax-collage.jpg'
 import AI from '../../public/assets/projects/gpt3-collage.jpg'
@@ -20,6 +19,7 @@ const ProjectsComponent
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
 
             <ProjectItem title='Horbax' backgroundImg={Horbax} projectUrl='/horbax' />
+            <ProjectItem title='Chitchat' backgroundImg={Chitchat} projectUrl='/chitchat' />
             <ProjectItem title='AI' backgroundImg={AI} projectUrl='/ai' />
             <ProjectItem title='Restaurant' backgroundImg={Restaurant} projectUrl='/restaurant' />
             <ProjectItem title='ScoreCard' backgroundImg={ScoreCard} projectUrl='/scoreCard' />

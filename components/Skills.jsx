@@ -11,6 +11,7 @@ import NODE from "../public/assets/skills/node.png";
 import MONGO from "../public/assets/skills/mongo.png";
 import TYPESCRIPT from "../public/assets/skills/Typescript.png"
 import PSQL from "../public/assets/skills/Postgresql.png"
+import PHP from "../public/assets/skills/php-logo.png"
 
 
 const Skills = () => {
@@ -225,6 +226,24 @@ const Skills = () => {
 
               <div className="flex flex-col items-center justify-center">
                 <h3>NODE</h3>
+              </div>
+
+            
+            </div>
+          </div>
+          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+            <div className="grid grid-cols-2 gap-4 justify-center items-center">
+              <div className="m-auto">
+                <Image
+                  src={PHP}
+                  width="64px"
+                  height="64px"
+                  alt="/"
+                />
+              </div>
+
+              <div className="flex flex-col items-center justify-center">
+                <h3>PHP</h3>
               </div>
 
             

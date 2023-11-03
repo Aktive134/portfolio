@@ -17,7 +17,7 @@ const ProjectItem = ({title, backgroundImg, projectUrl}) => {
             {title}
           </h3>
           <p className="text-white pb-4 pt-2 text-center">
-            React| Typescript | NodeJS | MongoDB
+            MERN | JAVASCRIPT | TYPESCRIPT | PHP | SQL 
           </p>
           <Link href={projectUrl}>
             <p className="text-center py-3 rounded-lg bg-white text-gray-800 font-bold text-lg cursor-pointer">

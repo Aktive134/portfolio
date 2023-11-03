@@ -12,19 +12,17 @@ const Main = () => {
       <div className="max-w-[1240] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div>
           <p className="uppercase text-md text-gray-600 tracking-widest test-gray-600">
-            Good programmers know what to write. Great ones know what to rewrite
+            Good programmers know what to write. <br/>Great ones know what to rewrite
             and reuse!
           </p>
           <h1 className="py-4 sm:text-lg text-3xl font-bold text-gray-800">
             Hi, I am <span className="text-[#5651e5]">R</span>aymond{' '}
-            <span className="text-[#5651e5]">U</span>mukoro <br /> A MERN Stack
-            Engineer
+            <span className="text-[#5651e5]">U</span>mukoro. <br />
           </h1>
-          <p className="py-4 m-auto max-w-[70%] text-gray-600 text-md mt-4">
-            I am a <span className="text-[#5651e5]">Design Thinker</span> and{' '}
-            <span className="text-[#5651e5]">MERN Stack Engineer</span> with a
-            passion for building scalable and robust web applications. I relish
-            the art of solving problems.
+          <p className="py-4 m-auto max-w-[70%] text-gray-600 text-md mt-1">
+          A <span className="text-[#5651e5]">Software Engineer</span> and <span className="text-[#5651e5]">Design Thinker</span> {" "}
+          with a deep passion for creating scalable and robust web applications.<br/>
+          Problem-solving is where I find my greatest joy.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4 ">
             <div className="rounded-full shadow-lg shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in duration-300 ">

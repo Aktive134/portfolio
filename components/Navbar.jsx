@@ -52,7 +52,7 @@ const Navbar = () => {
             <Image src={Logo} alt="logo" width='180px'  height="180px"/>
           </a>
         </Link>
-        <div>
+        <div className="mr-4">
           <ul style={{ color: `${linksColor}`}} className="hidden md:flex">
             <Link href="/">
               <a className="text-[#000000]">

@@ -83,7 +83,7 @@ const Contact = () => {
           scrolling="no"
           marginHeight="0"
           marginWidth="0"
-          src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Decagon%20Edo,%20Benin%20city,%20Nigeria+(NazaCodes)&amp;t=h&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+          src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=%20Lagos,%20Nigeria&amp;t=h&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed&amp;center=6.524379,3.379206"
         >
         </iframe>
       </div>

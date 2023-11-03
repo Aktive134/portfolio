@@ -12,23 +12,21 @@ const About = () => {
           </p>
           <h2 className="py-4 text-[#ffffff] text-4xl">Meet Me...</h2>
           <p className="text-xl text-gray-300 py-2">
-          As a MERN stack engineer, I have acquired extensive skills and knowledge<br/>
-          in the four primary technologies that compose this robust web development stack: <br/>
-          MongoDB, Express, React, and Node.js.<br/>
-          My experience with MERN has ignited a strong passion within me for constructing<br/>
-          web applications that are not only scalable and efficient but also resilient and dependable.<br/>
+          As a Software engineer, I have acquired extensive skills and knowledge<br/>
+          in technologies that compose this robust web development stack: <br/>
+          MongoDB, Express, React, Node.js and PHP. <br/>
+          My journey in web development has ignited a deep passion for creating web applications that are not just scalable and efficient but also reliable and robust.
           </p>
           <p className="text-xl text-gray-300 py-2">
-          One of the aspects I find most fulfilling about MERN stack development is the art of problem-solving. 
+          One of the aspects I find most fulfilling about software development is the art of problem-solving. 
           Whether it involves debugging, optimizing code performance, or implementing new features, 
           I thrive on the challenge of devising sophisticated solutions to intricate problems.
           </p>
           <p className="text-xl text-gray-300 py-2">
-          Beyond my technical expertise, I also consider myself a design thinker. 
-          I take a user-centered approach to every project, striving to craft interfaces that are intuitive and 
-          user-friendly, elevating the overall user experience. 
-          By blending my technical aptitude with my design thinking methodology, I am capable of creating 
-          innovative solutions that cater to both business objectives and end-users.
+          In addition to my technical knowledge, I approach every project with a design thinker&rsquo;s mindset.<br/>
+          I prioritize the user, striving to create interfaces that are both intuitive and user-friendly, ultimately enhancing the overall user experience.<br/>
+          By blending my technical acumen with this design thinking approach,<br/>
+          I can craft innovative solutions that align with both business objectives and user needs.<br/>
           </p>
         </div>
         <div className="cursor-pointer shadow-gray-400 rounded-xl flex items-center justify-center hover:scale-110 ease-in duration-300">
